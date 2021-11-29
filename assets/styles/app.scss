@@ -1,0 +1,6 @@
+$primary: #fff;
+$secondary: #4c6ef5;
+@import "~bootstrap/scss/bootstrap";
+body {
+    background-color: $primary;
+}
